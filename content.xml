@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260525184056FUEY2A</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260525184056BOC4PU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>NOTICIERO ESCOLAR</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Aula 5 años</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Esther Pineda Domínguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje dirigida al alumnado de 5 años basada en la animación a la lectura, la expresión oral y el uso guiado de herramientas digitales mediante la creación de un audiolibro y un noticiero del Día del Libro.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779727248599</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mplfnhqy-u071iha2t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📚 Título</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Título</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Título</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>📚 Título</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhqy-u071iha2t</odePageId>
+      <odeBlockId>block-1779363672234-qm2pcaix9</odeBlockId>
+      <blockName>📚 “Somos reporteros del Día del Libro”</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhqy-u071iha2t</odePageId>
+          <odeBlockId>block-1779363672234-qm2pcaix9</odeBlockId>
+          <odeIdeviceId>idevice-1779363672231-ea1z2it1i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>                                                           <img src="{{context_path}}/content/resources/niños-entrevistando-con-micrófonos-ilustración-sobre-fondo-blanco-para-la-producción-de-medios-dibujos-animados-dos-en-un-381313180.webp" title="SOMOS PERIODISTAS" width="511" height="511" alt="" /></p>
+<p><em><strong>Esther Pineda Domínguez</strong></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779363672231-ea1z2it1i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>                                                           <img src=\"{{context_path}}/content/resources/niños-entrevistando-con-micrófonos-ilustración-sobre-fondo-blanco-para-la-producción-de-medios-dibujos-animados-dos-en-un-381313180.webp\" title=\"SOMOS PERIODISTAS\" width=\"511\" height=\"511\" alt=\"\" /></p>\n<p><em><strong>Esther Pineda Domínguez</strong></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr1-33ups9jen</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📝 Descripción</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📝 Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📝 Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>📝 Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr1-33ups9jen</odePageId>
+      <odeBlockId>block-1779364482335-6jdgjkki3</odeBlockId>
+      <blockName>Reporteros el día del libro</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr1-33ups9jen</odePageId>
+          <odeBlockId>block-1779364482335-6jdgjkki3</odeBlockId>
+          <odeIdeviceId>idevice-1779364482333-mil1uczk8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SA se desarrolla con motivo de la celebración del Día del Libro, utilizando esta efeméride como situación motivadora para el aprendizaje.</p>
+<p style="text-align: justify;">El alumnado asume el papel de reportero, participando en la recomendación de un cuento y en la creación de un pequeño audiolibro. A través de esta SA se pretende fomentar el gusto por la lectura, el desarrollo de la expresión oral y la ampliación del vocabulario.</p>
+<p>Asimismo, incorporamos el uso de la tecnología como herramienta de apoyo, que nos va a permitir la grabación de audios y vídeos que va a facilitar la creación de un producto digital sencillo y adaptado al nivel del alumnado. De este modo, el alumnado no solo utiliza la tecnología como recurso de apoyo, sino también como medio para crear y comunicar sus propios aprendizajes. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779364482333-mil1uczk8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SA se desarrolla con motivo de la celebración del Día del Libro, utilizando esta efeméride como situación motivadora para el aprendizaje.</p>\n<p style=\"text-align: justify;\">El alumnado asume el papel de reportero, participando en la recomendación de un cuento y en la creación de un pequeño audiolibro. A través de esta SA se pretende fomentar el gusto por la lectura, el desarrollo de la expresión oral y la ampliación del vocabulario.</p>\n<p>Asimismo, incorporamos el uso de la tecnología como herramienta de apoyo, que nos va a permitir la grabación de audios y vídeos que va a facilitar la creación de un producto digital sencillo y adaptado al nivel del alumnado. De este modo, el alumnado no solo utiliza la tecnología como recurso de apoyo, sino también como medio para crear y comunicar sus propios aprendizajes. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr2-otpra5apn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📝 Justificación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📝 Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📝 Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>📝 Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr2-otpra5apn</odePageId>
+      <odeBlockId>block-1779364851491-f9uuqp9s1</odeBlockId>
+      <blockName>¿Porqué?</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr2-otpra5apn</odePageId>
+          <odeBlockId>block-1779364851491-f9uuqp9s1</odeBlockId>
+          <odeIdeviceId>idevice-1779364851489-yfiwwtttw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SA fomenta el interés por la lectura y el desarrollo de la expresión oral, aspectos que son fundamentales en esta etapa educativa. Además, también responde a la necesidad de adaptar las metodologías a un contexto de diversidad, donde el lenguaje y la comunicación requieren especial atención.</p>
+<p>El uso de metodologías activas se justifica por su capacidad para implicar al alumnado en su propio proceso de aprendizaje, convirtiéndolo en protagonista a través del rol de reportero. La incorporación de la tecnología se plantea como un recurso funcional y accesible, que permite al alumnado crear contenido digital sencillo mediante grabaciones de audio y vídeo, reforzando así su competencia digital de manera progresiva y adaptada a su nivel madurativo.</p>
+<p>El nivel de 5 años es el nivel de infantil que nos puede dar más juego en este tipo de actividades ya que tienen adquirido más vocabulario, la expresión es más fluida y hay más iniciativa y participación.</p>
+<p>En definitiva, esta situación de aprendizaje responde a la necesidad de ofrecer propuestas inclusivas, motivadoras y significativas, que integren el lenguaje oral, la tecnología y la participación activa del alumnado como elementos fundamentales del proceso educativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779364851489-yfiwwtttw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SA fomenta el interés por la lectura y el desarrollo de la expresión oral, aspectos que son fundamentales en esta etapa educativa. Además, también responde a la necesidad de adaptar las metodologías a un contexto de diversidad, donde el lenguaje y la comunicación requieren especial atención.</p>\n<p>El uso de metodologías activas se justifica por su capacidad para implicar al alumnado en su propio proceso de aprendizaje, convirtiéndolo en protagonista a través del rol de reportero. La incorporación de la tecnología se plantea como un recurso funcional y accesible, que permite al alumnado crear contenido digital sencillo mediante grabaciones de audio y vídeo, reforzando así su competencia digital de manera progresiva y adaptada a su nivel madurativo.</p>\n<p>El nivel de 5 años es el nivel de infantil que nos puede dar más juego en este tipo de actividades ya que tienen adquirido más vocabulario, la expresión es más fluida y hay más iniciativa y participación.</p>\n<p>En definitiva, esta situación de aprendizaje responde a la necesidad de ofrecer propuestas inclusivas, motivadoras y significativas, que integren el lenguaje oral, la tecnología y la participación activa del alumnado como elementos fundamentales del proceso educativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr3-4h63wmn3q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🌐 Uso seguro y responsable de las tecnologías digitales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🌐 Uso seguro y responsable de las tecnologías digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🌐 Uso seguro y responsable de las tecnologías digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr3-4h63wmn3q</odePageId>
+      <odeBlockId>block-1779441005117-s110aoo1o</odeBlockId>
+      <blockName>🌐 Navegamos seguros en Internet</blockName>
+      <iconName>suitcase</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr3-4h63wmn3q</odePageId>
+          <odeBlockId>block-1779441005117-s110aoo1o</odeBlockId>
+          <odeIdeviceId>idevice-1779441005116-n74zmis1t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de esta Situación de Aprendizaje fomentaremos un uso seguro, responsable y guiado de las herramientas digitales adaptadas a la etapa de Educación Infantil.</p>
+<p>El alumnado trabajará normas básicas relacionadas con el cuidado de los dispositivos, el respeto hacia las producciones propias y de los compañeros, así como hábitos saludables en el uso de las tecnologías digitales.</p>
+<p>Además, tendremos colocado en el aula la infografía para concienciar al alumnado sobre la importancia de utilizar Internet y las herramientas digitales de forma segura y responsable.</p>
+<p><img src="{{context_path}}/content/resources/Infografía.pdf" alt="" /><img src="{{context_path}}/content/resources/infografia.png" width="304" height="765" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779441005116-n74zmis1t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de esta Situación de Aprendizaje fomentaremos un uso seguro, responsable y guiado de las herramientas digitales adaptadas a la etapa de Educación Infantil.</p>\n<p>El alumnado trabajará normas básicas relacionadas con el cuidado de los dispositivos, el respeto hacia las producciones propias y de los compañeros, así como hábitos saludables en el uso de las tecnologías digitales.</p>\n<p>Además, tendremos colocado en el aula la infografía para concienciar al alumnado sobre la importancia de utilizar Internet y las herramientas digitales de forma segura y responsable.</p>\n<p><img src=\"{{context_path}}/content/resources/Infografía.pdf\" alt=\"\" /><img src=\"{{context_path}}/content/resources/infografia.png\" width=\"304\" height=\"765\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr3-4x30wpmt3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🌈 Atención a la diversidad y DUA</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🌈 Atención a la diversidad y DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🌈 Atención a la diversidad y DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr3-4x30wpmt3</odePageId>
+      <odeBlockId>block-1779441355648-jfq8h6zw5</odeBlockId>
+      <blockName>🧩 Aprendemos juntos</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr3-4x30wpmt3</odePageId>
+          <odeBlockId>block-1779441355648-jfq8h6zw5</odeBlockId>
+          <odeIdeviceId>idevice-1779441355647-lcj720n3b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Situación de Aprendizaje tendrá en cuenta tanto los diferentes ritmos, intereses y necesidades del alumnado mediante propuestas flexibles, visuales y manipulativas adaptadas al alumnado.</p>
+<p>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se ofrecerán múltiples formas de representación, participación y expresión, favoreciendo una enseñanza accesible e inclusiva para todo el grupo-clase.</p>
+<p>Para ello, se utilizarán apoyos visuales, recursos audiovisuales, dinámicas cooperativas, modelado oral y diferentes formas de participación que faciliten el aprendizaje significativo y la motivación del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779441355647-lcj720n3b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje tendrá en cuenta tanto los diferentes ritmos, intereses y necesidades del alumnado mediante propuestas flexibles, visuales y manipulativas adaptadas al alumnado.</p>\n<p>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se ofrecerán múltiples formas de representación, participación y expresión, favoreciendo una enseñanza accesible e inclusiva para todo el grupo-clase.</p>\n<p>Para ello, se utilizarán apoyos visuales, recursos audiovisuales, dinámicas cooperativas, modelado oral y diferentes formas de participación que faciliten el aprendizaje significativo y la motivación del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr4-de6w05wvk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📅 Temporalización</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📅 Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📅 Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>📅 Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr4-de6w05wvk</odePageId>
+      <odeBlockId>block-1779367864098-28io8bg3l</odeBlockId>
+      <blockName>Semana del libro</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr4-de6w05wvk</odePageId>
+          <odeBlockId>block-1779367864098-28io8bg3l</odeBlockId>
+          <odeIdeviceId>idevice-1779367864097-j2i06nivv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em>La Situación de Aprendizaje se desarrollará durante el segundo trimestre, coincidiendo con la celebración del Día del Libro.</em></p>
+<p><em>La propuesta se llevará a cabo aproximadamente en 8 sesiones de 45 minutos, adaptándose de forma flexible a las necesidades y ritmos del alumnado.<img src="{{context_path}}/content/resources/Módulo 7 Línea temporal.png" width="962" height="541" alt="" /></em></p>
+<p><em>“La organización temporal podrá modificarse según el desarrollo de las actividades y las necesidades del grupo-clase.”</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779367864097-j2i06nivv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em>La Situación de Aprendizaje se desarrollará durante el segundo trimestre, coincidiendo con la celebración del Día del Libro.</em></p>\n<p><em>La propuesta se llevará a cabo aproximadamente en 8 sesiones de 45 minutos, adaptándose de forma flexible a las necesidades y ritmos del alumnado.<img src=\"{{context_path}}/content/resources/Módulo 7 Línea temporal.png\" width=\"962\" height=\"541\" alt=\"\" /></em></p>\n<p><em>“La organización temporal podrá modificarse según el desarrollo de las actividades y las necesidades del grupo-clase.”</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr4-65oalacbf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🎯 Nuestras tareas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎯 Nuestras tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎯 Nuestras tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🎯 Nuestras tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr4-65oalacbf</odePageId>
+      <odeBlockId>block-1779373542002-sbnbtiug6</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr4-65oalacbf</odePageId>
+          <odeBlockId>block-1779373542002-sbnbtiug6</odeBlockId>
+          <odeIdeviceId>idevice-1779373542001-tdr6rkvfb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las siguientes tareas han sido diseñadas de forma secuenciada y adaptadas a las características del alumnado de 5 años, partiendo de una metodología activa, participativa y motivadora.</p>
+<p>Todas las actividades favorecerán la participación, la creatividad, la colaboración y el aprendizaje significativo, respetando los diferentes ritmos y necesidades del grupo-clase.</p>
+<ul>
+<li>Asamblea: Día del libro Cuentos</li>
+<li>Partes cuento</li>
+<li>Recomendaciones</li>
+<li>Reporteros</li>
+<li>Audiolibro</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779373542001-tdr6rkvfb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las siguientes tareas han sido diseñadas de forma secuenciada y adaptadas a las características del alumnado de 5 años, partiendo de una metodología activa, participativa y motivadora.</p>\n<p>Todas las actividades favorecerán la participación, la creatividad, la colaboración y el aprendizaje significativo, respetando los diferentes ritmos y necesidades del grupo-clase.</p>\n<ul>\n<li>Asamblea: Día del libro Cuentos</li>\n<li>Partes cuento</li>\n<li>Recomendaciones</li>\n<li>Reporteros</li>\n<li>Audiolibro</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr5-n2e127yqe</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
+  <pageName>1. Asamblea</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Asamblea</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Asamblea</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Asamblea</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr5-n2e127yqe</odePageId>
+      <odeBlockId>block-1779432460682-c889cw163</odeBlockId>
+      <blockName>🌟 Comenzamos nuestra aventura</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr5-n2e127yqe</odePageId>
+          <odeBlockId>block-1779432460682-c889cw163</odeBlockId>
+          <odeIdeviceId>idevice-1779432460680-k8llxvq3r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La Situación de Aprendizaje comenzará con una asamblea motivadora en la que el alumnado encontrará una caja sorpresa con diferentes elementos relacionados con los cuentos y el mundo de los reporteros.</p>
+<p>Dentro de la caja aparecerán cuentos, materiales visuales y una nota especial que invitará a los niños y niñas a convertirse en pequeños reporteros del Día del Libro.</p>
+<p><em><span style="font-weight: bolder;">Caja:</span></em> 📚 cuentos 🎤 micrófono 📰 periódico 👓 gafas divertidas 🔍 lupa ✉️ carta ⭐ letras grandes  📖 marcapáginas 🧸 personaje de cuento</p>
+<p><em><strong>Nota: 📩 “Necesitamos pequeños reporteros para descubrir los mejores cuentos del colegio y celebrar el Día del Libro. ¿Nos ayudáis?”</strong></em></p>
+<p>Además, se visualizará un breve vídeo relacionado con la lectura y los cuentos para despertar el interés y favorecer la participación activa del alumnado desde el inicio del proyecto.</p>
+<p><a href="https://www.youtube.com/watch?v=_zJNXx3yT1A">https://www.youtube.com/watch?v=_zJNXx3yT1A</a></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-22 085546.png" width="253" height="144" alt="" /></p>
+<p><strong>Referencia bibliográfica/audiovisuales: </strong></p>
+<p><strong>https://www.youtube.com/@MissCuentosEducativos, - 2022</strong></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779432460680-k8llxvq3r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La Situación de Aprendizaje comenzará con una asamblea motivadora en la que el alumnado encontrará una caja sorpresa con diferentes elementos relacionados con los cuentos y el mundo de los reporteros.</p>\n<p>Dentro de la caja aparecerán cuentos, materiales visuales y una nota especial que invitará a los niños y niñas a convertirse en pequeños reporteros del Día del Libro.</p>\n<p><em><span style=\"font-weight: bolder;\">Caja:</span></em> 📚 cuentos 🎤 micrófono 📰 periódico 👓 gafas divertidas 🔍 lupa ✉️ carta ⭐ letras grandes  📖 marcapáginas 🧸 personaje de cuento</p>\n<p><em><strong>Nota: 📩 “Necesitamos pequeños reporteros para descubrir los mejores cuentos del colegio y celebrar el Día del Libro. ¿Nos ayudáis?”</strong></em></p>\n<p>Además, se visualizará un breve vídeo relacionado con la lectura y los cuentos para despertar el interés y favorecer la participación activa del alumnado desde el inicio del proyecto.</p>\n<p><a href=\"https://www.youtube.com/watch?v=_zJNXx3yT1A\">https://www.youtube.com/watch?v=_zJNXx3yT1A</a></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-22 085546.png\" width=\"253\" height=\"144\" alt=\"\" /></p>\n<p><strong>Referencia bibliográfica/audiovisuales: </strong></p>\n<p><strong>https://www.youtube.com/@MissCuentosEducativos, - 2022</strong></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr5-fgtab06ac</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
+  <pageName>2. Cuentos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Cuentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Cuentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Cuentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr5-fgtab06ac</odePageId>
+      <odeBlockId>block-1779372978989-ew4bef37k</odeBlockId>
+      <blockName>📚 ¿Qué son los cuentos?</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr5-fgtab06ac</odePageId>
+          <odeBlockId>block-1779372978989-ew4bef37k</odeBlockId>
+          <odeIdeviceId>idevice-1779372978988-fekzvjcd9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Los cuentos son narraciones breves que, a través de personajes, imágenes y aventuras, ayudan a los niños y niñas a desarrollar la imaginación, ampliar su vocabulario, expresar emociones y disfrutar del placer por la lectura.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779372978988-fekzvjcd9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Los cuentos son narraciones breves que, a través de personajes, imágenes y aventuras, ayudan a los niños y niñas a desarrollar la imaginación, ampliar su vocabulario, expresar emociones y disfrutar del placer por la lectura.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr6-1zj8b6909</odePageId>
+  <odeParentPageId>page-mplfnhr5-fgtab06ac</odeParentPageId>
+  <pageName>🔎 Exploramos los cuentos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔎 Exploramos los cuentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔎 Exploramos los cuentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🔎 Exploramos los cuentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr6-1zj8b6909</odePageId>
+      <odeBlockId>block-1779383834874-v3p2y35ao</odeBlockId>
+      <blockName>🔎 Detectives de cuentos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr6-1zj8b6909</odePageId>
+          <odeBlockId>block-1779383834874-v3p2y35ao</odeBlockId>
+          <odeIdeviceId>idevice-1779383834873-590hlnqv1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado manipulará y observará diferentes cuentos del aula, identificando personajes, imágenes y elementos principales de las historias.</p>
+<p>La actividad se realizará en pequeño grupo, favoreciendo la participación, la escucha y el interés por la lectura.</p>
+<p>Se utilizarán cuentos impresos y algunos recursos visuales digitales proyectados en la pizarra digital como imágenes de personajes, secuencias visuales, portadas de cuentos y pequeños vídeos adaptados a la edad del alumnado.”</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779383834873-590hlnqv1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado manipulará y observará diferentes cuentos del aula, identificando personajes, imágenes y elementos principales de las historias.</p>\n<p>La actividad se realizará en pequeño grupo, favoreciendo la participación, la escucha y el interés por la lectura.</p>\n<p>Se utilizarán cuentos impresos y algunos recursos visuales digitales proyectados en la pizarra digital como imágenes de personajes, secuencias visuales, portadas de cuentos y pequeños vídeos adaptados a la edad del alumnado.”</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr8-8l0c7qqop</odePageId>
+  <odeParentPageId>page-mplfnhr5-fgtab06ac</odeParentPageId>
+  <pageName>👀 A curiosear</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👀 A curiosear</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👀 A curiosear</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>👀 A curiosear</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr8-8l0c7qqop</odePageId>
+      <odeBlockId>block-1779383916977-d71yxyx5s</odeBlockId>
+      <blockName>✨ Un viaje entre cuentos</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr8-8l0c7qqop</odePageId>
+          <odeBlockId>block-1779383916977-d71yxyx5s</odeBlockId>
+          <odeIdeviceId>idevice-1779383916976-1b3pvl99n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/de-que-color-es-un-beso.jpg" width="156" height="156" alt="" />  <img src="{{context_path}}/content/resources/a que sabe la luna.jpg" width="94" height="140" alt="" />   <img src="{{context_path}}/content/resources/mi primer beso.jpg" width="105" height="109" alt="" />   <img src="{{context_path}}/content/resources/mejor-cuento-infantil-ovejita-vino-cenar.jpg" width="133" height="117" alt="" />   <img src="{{context_path}}/content/resources/guapa.jpg" width="133" height="116" alt="" />   <img src="{{context_path}}/content/resources/quieres ser mi amigo.jpg" width="149" height="113" alt="" />  <img src="{{context_path}}/content/resources/la oruga glotona.jpg" width="121" height="121" alt="" /> </p>
+<p><img src="{{context_path}}/content/resources/El-monstruo-de-colores-.jpg" width="195" height="130" alt="" /><img src="{{context_path}}/content/resources/chivos y chivones.webp" width="122" height="122" alt="" />   <img src="{{context_path}}/content/resources/cacurcias_1.jpg" width="156" height="112" alt="" />  </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779383916976-1b3pvl99n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/de-que-color-es-un-beso.jpg\" width=\"156\" height=\"156\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/a que sabe la luna.jpg\" width=\"94\" height=\"140\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/mi primer beso.jpg\" width=\"105\" height=\"109\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/mejor-cuento-infantil-ovejita-vino-cenar.jpg\" width=\"133\" height=\"117\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/guapa.jpg\" width=\"133\" height=\"116\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/quieres ser mi amigo.jpg\" width=\"149\" height=\"113\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/la oruga glotona.jpg\" width=\"121\" height=\"121\" alt=\"\" /> </p>\n<p><img src=\"{{context_path}}/content/resources/El-monstruo-de-colores-.jpg\" width=\"195\" height=\"130\" alt=\"\" /><img src=\"{{context_path}}/content/resources/chivos y chivones.webp\" width=\"122\" height=\"122\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/cacurcias_1.jpg\" width=\"156\" height=\"112\" alt=\"\" />  </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr8-g4ayi0v17</odePageId>
+  <odeParentPageId>page-mplfnhr5-fgtab06ac</odeParentPageId>
+  <pageName>🗳️ Elegimos nuestro cuento</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🗳️ Elegimos nuestro cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🗳️ Elegimos nuestro cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr8-g4ayi0v17</odePageId>
+      <odeBlockId>block-1779384635507-79wz9k3g9</odeBlockId>
+      <blockName>🎤 En busca del cuento perfecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr8-g4ayi0v17</odePageId>
+          <odeBlockId>block-1779384635507-79wz9k3g9</odeBlockId>
+          <odeIdeviceId>idevice-1779384635507-e4zazuxej</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tras conocer y explorar diferentes cuentos infantiles, el alumnado participará en una pequeña votación para elegir de forma democrática el cuento que formará parte del audiolibro y de la recomendación del cuento del Día del Libro.</p>
+<p>A través de la observación de imágenes, portadas y pequeñas explicaciones sobre cada historia, los niños y niñas podrán expresar sus gustos e intereses, favoreciendo la participación, la escucha y la toma de decisiones en grupo.</p>
+<p>La actividad se realizará en gran grupo utilizando apoyos visuales y recursos digitales proyectados en la pizarra digital.</p>
+<p>                                                                                         <img src="{{context_path}}/content/resources/resize_1572003202.jpg" width="131" height="145" alt="" /></p>
+<p>A las familias se les comunicará cual ha sido el cuento ganador para que en casa se lo lean o lo vean a través de video.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779384635507-e4zazuxej","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tras conocer y explorar diferentes cuentos infantiles, el alumnado participará en una pequeña votación para elegir de forma democrática el cuento que formará parte del audiolibro y de la recomendación del cuento del Día del Libro.</p>\n<p>A través de la observación de imágenes, portadas y pequeñas explicaciones sobre cada historia, los niños y niñas podrán expresar sus gustos e intereses, favoreciendo la participación, la escucha y la toma de decisiones en grupo.</p>\n<p>La actividad se realizará en gran grupo utilizando apoyos visuales y recursos digitales proyectados en la pizarra digital.</p>\n<p>                                                                                         <img src=\"{{context_path}}/content/resources/resize_1572003202.jpg\" width=\"131\" height=\"145\" alt=\"\" /></p>\n<p>A las familias se les comunicará cual ha sido el cuento ganador para que en casa se lo lean o lo vean a través de video.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
+  <pageName>3. Partes del cuento</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Partes del cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Partes del cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Partes del cuento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
+      <odeBlockId>block-1779374488862-t1l1xilhw</odeBlockId>
+      <blockName>✨ Descubrimos las partes del cuento y tipos de cuentos</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
+          <odeBlockId>block-1779374488862-t1l1xilhw</odeBlockId>
+          <odeIdeviceId>idevice-1779374488859-3tfsprcbm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>A través de cuentos conocidos, imágenes y secuencias visuales, el alumnado aprenderá a identificar las partes principales de una historia:</p>
+<p><em><strong>Inicio, Desarrollo y Final.</strong></em></p>
+<p><em><strong>Video explicativo</strong></em></p>
+<p><iframe width="300" height="150" src="https://www.youtube.com/embed/T1VCFBBfQb0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>Referencias bibliográficas: </strong></p>
+<p><strong>https://www.youtube.com/@tiavivianahuerta, - 2023</strong></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374488859-3tfsprcbm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>A través de cuentos conocidos, imágenes y secuencias visuales, el alumnado aprenderá a identificar las partes principales de una historia:</p>\n<p><em><strong>Inicio, Desarrollo y Final.</strong></em></p>\n<p><em><strong>Video explicativo</strong></em></p>\n<p><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/T1VCFBBfQb0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>Referencias bibliográficas: </strong></p>\n<p><strong>https://www.youtube.com/@tiavivianahuerta, - 2023</strong></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
+      <odeBlockId>block-1779434629745-r92gxuybr</odeBlockId>
+      <blockName>📖 Descubrimos diferentes tipos de textos</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
+          <odeBlockId>block-1779434629745-r92gxuybr</odeBlockId>
+          <odeIdeviceId>idevice-1779434629744-a5h3tg60a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>“A lo largo de la Situación de Aprendizaje, el alumnado descubrirá diferentes tipos de textos adaptados a su edad,   favoreciendo el interés por la lectura y la expresión oral.”</p>
+<p>Veamos algunos ejemplos: Se expone en el rincón de la lectura algunos tipos de textos.</p>
+<p><img src="{{context_path}}/content/resources/tipos de textos.jpg" width="1003" height="564" alt="" /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779434629744-a5h3tg60a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>“A lo largo de la Situación de Aprendizaje, el alumnado descubrirá diferentes tipos de textos adaptados a su edad,   favoreciendo el interés por la lectura y la expresión oral.”</p>\n<p>Veamos algunos ejemplos: Se expone en el rincón de la lectura algunos tipos de textos.</p>\n<p><img src=\"{{context_path}}/content/resources/tipos de textos.jpg\" width=\"1003\" height=\"564\" alt=\"\" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhra-id72o15zg</odePageId>
+  <odeParentPageId>page-mplfnhr9-ulg8cdonv</odeParentPageId>
+  <pageName>📚 Vocabulario</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Vocabulario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Vocabulario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>📚 Vocabulario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhra-id72o15zg</odePageId>
+      <odeBlockId>block-1779375650975-w4gobc0ck</odeBlockId>
+      <blockName>✨ Creamos cuentos con imágenes</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhra-id72o15zg</odePageId>
+          <odeBlockId>block-1779375650975-w4gobc0ck</odeBlockId>
+          <odeIdeviceId>idevice-1779375650973-m0xp074ky</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con esta actividad aprenderemos vocabulario nuevo relacionado con los cuentos y que nos guiará para la creación de nuevos cuentos. A través de diferentes tarjetas de lugares, personajes y objetos practicaremos creando historias respetando las diferentes partes del cuento: Inicio - nudo - desenlace.</p>
+<p><em><strong>Objetos:</strong></em> <img src="{{context_path}}/content/resources/Fábrica de cuentos-Varias.pdf" alt="" title="Fábrica de cuentos-Varias.pdf" /><a href="{{context_path}}/content/resources/Fábrica de cuentos-Varias.pdf" title="Fábrica de cuentos-Varias.pdf">{{context_path}}/content/resources/Fábrica de cuentos-Varias.pdf</a></p>
+<p><img src="{{context_path}}/content/resources/objetos 3.png" width="151" height="100" alt="" />    <img src="{{context_path}}/content/resources/objetos 2.png" width="152" height="101" alt="" />   <img src="{{context_path}}/content/resources/objetos .png" width="150" height="100" alt="" /></p>
+<p><em><strong>Personajes: </strong></em><a href="{{context_path}}/content/resources/Fábrica de cuentos-Personajes.pdf" title="Fábrica de cuentos-Personajes.pdf">{{context_path}}/content/resources/Fábrica de cuentos-Personajes.pdf</a></p>
+<p><img src="{{context_path}}/content/resources/personajes.png" width="154" height="102" alt="" />   <img src="{{context_path}}/content/resources/personajes 3.png" width="154" height="103" alt="" />   <img src="{{context_path}}/content/resources/personajes 2.png" width="157" height="104" alt="" /></p>
+<p><em><strong title="Fábrica de cuentos-Lugares.pdf">Lugares:</strong></em> <a href="{{context_path}}/content/resources/Fábrica de cuentos-Lugares.pdf" title="Fábrica de cuentos-Lugares.pdf">{{context_path}}/content/resources/Fábrica de cuentos-Lugares.pdf</a></p>
+<p><img src="{{context_path}}/content/resources/lugares (2).png" width="156" height="103" alt="" />    <img src="{{context_path}}/content/resources/lugares 3.png" width="153" height="102" alt="" />     <img src="{{context_path}}/content/resources/lugares.png" width="147" height="98" alt="" /><br /></p>
+<p><em><strong>Principios y finales: </strong></em><a href="{{context_path}}/content/resources/Fábrica de cuentos-Principios y finales.pdf" title="Fábrica de cuentos-Principios y finales.pdf">{{context_path}}/content/resources/Fábrica de cuentos-Principios y finales.pdf</a></p>
+<p><img src="{{context_path}}/content/resources/principios y finales.png" width="154" height="103" alt="" />   <img src="{{context_path}}/content/resources/principios y finales 2.png" width="159" height="106" alt="" /></p>
+<p><em><strong>Mediante imágenes, palabras y apoyo audiovisual, se favorecerá la comprensión oral, la ampliación del vocabulario y la participación activa del alumnado de una forma motivadora y adaptada a su edad</strong></em><em><strong></strong></em></p>
+<p><em><strong>Referencias bibliográficas: Aula de la maestra Laura</strong></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779375650973-m0xp074ky","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con esta actividad aprenderemos vocabulario nuevo relacionado con los cuentos y que nos guiará para la creación de nuevos cuentos. A través de diferentes tarjetas de lugares, personajes y objetos practicaremos creando historias respetando las diferentes partes del cuento: Inicio - nudo - desenlace.</p>\n<p><em><strong>Objetos:</strong></em> <img src=\"{{context_path}}/content/resources/Fábrica de cuentos-Varias.pdf\" alt=\"\" title=\"Fábrica de cuentos-Varias.pdf\" /><a href=\"{{context_path}}/content/resources/Fábrica de cuentos-Varias.pdf\" title=\"Fábrica de cuentos-Varias.pdf\">{{context_path}}/content/resources/Fábrica de cuentos-Varias.pdf</a></p>\n<p><img src=\"{{context_path}}/content/resources/objetos 3.png\" width=\"151\" height=\"100\" alt=\"\" />    <img src=\"{{context_path}}/content/resources/objetos 2.png\" width=\"152\" height=\"101\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/objetos .png\" width=\"150\" height=\"100\" alt=\"\" /></p>\n<p><em><strong>Personajes: </strong></em><a href=\"{{context_path}}/content/resources/Fábrica de cuentos-Personajes.pdf\" title=\"Fábrica de cuentos-Personajes.pdf\">{{context_path}}/content/resources/Fábrica de cuentos-Personajes.pdf</a></p>\n<p><img src=\"{{context_path}}/content/resources/personajes.png\" width=\"154\" height=\"102\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/personajes 3.png\" width=\"154\" height=\"103\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/personajes 2.png\" width=\"157\" height=\"104\" alt=\"\" /></p>\n<p><em><strong title=\"Fábrica de cuentos-Lugares.pdf\">Lugares:</strong></em> <a href=\"{{context_path}}/content/resources/Fábrica de cuentos-Lugares.pdf\" title=\"Fábrica de cuentos-Lugares.pdf\">{{context_path}}/content/resources/Fábrica de cuentos-Lugares.pdf</a></p>\n<p><img src=\"{{context_path}}/content/resources/lugares (2).png\" width=\"156\" height=\"103\" alt=\"\" />    <img src=\"{{context_path}}/content/resources/lugares 3.png\" width=\"153\" height=\"102\" alt=\"\" />     <img src=\"{{context_path}}/content/resources/lugares.png\" width=\"147\" height=\"98\" alt=\"\" /><br /></p>\n<p><em><strong>Principios y finales: </strong></em><a href=\"{{context_path}}/content/resources/Fábrica de cuentos-Principios y finales.pdf\" title=\"Fábrica de cuentos-Principios y finales.pdf\">{{context_path}}/content/resources/Fábrica de cuentos-Principios y finales.pdf</a></p>\n<p><img src=\"{{context_path}}/content/resources/principios y finales.png\" width=\"154\" height=\"103\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/principios y finales 2.png\" width=\"159\" height=\"106\" alt=\"\" /></p>\n<p><em><strong>Mediante imágenes, palabras y apoyo audiovisual, se favorecerá la comprensión oral, la ampliación del vocabulario y la participación activa del alumnado de una forma motivadora y adaptada a su edad</strong></em><em><strong></strong></em></p>\n<p><em><strong>Referencias bibliográficas: Aula de la maestra Laura</strong></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhrb-4vycwws43</odePageId>
+  <odeParentPageId>page-mplfnhr9-ulg8cdonv</odeParentPageId>
+  <pageName>🎮 Juegos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎮 Juegos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎮 Juegos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🎮 Juegos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhrb-4vycwws43</odePageId>
+      <odeBlockId>block-1779376404194-jz0o75e12</odeBlockId>
+      <blockName>🎮 Jugamos y aprendemos con los cuentos</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhrb-4vycwws43</odePageId>
+          <odeBlockId>block-1779376404194-jz0o75e12</odeBlockId>
+          <odeIdeviceId>idevice-1779376404193-4wtub8s93</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de diferentes juegos interactivos adaptadas a su edad, los niños y niñas reforzarán la comprensión oral, la secuenciación de historias y la adquisición de nuevo vocabulario, favoreciendo además la motivación y la participación activa.</p>
+<p><em><strong>PARTES DEL CUENTO</strong></em></p>
+<p><img src="{{context_path}}/content/resources/juego partes cuento.png" width="272" height="179" alt="" /></p>
+<p><a href="https://www.educaplay.com/learning-resources/17996832-partes_del_cuento.html">https://www.educaplay.com/learning-resources/17996832-partes_del_cuento.html</a></p>
+<p><em><strong>INVENTO HISTORIAS</strong></em></p>
+<p><img src="{{context_path}}/content/resources/crear historias.png" width="272" height="156" alt="" /><br /></p>
+<p><a href="https://wordwall.net/es/resource/2485843/imagenes-crear-historias">https://wordwall.net/es/resource/2485843/imagenes-crear-historias</a></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779376404193-4wtub8s93","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de diferentes juegos interactivos adaptadas a su edad, los niños y niñas reforzarán la comprensión oral, la secuenciación de historias y la adquisición de nuevo vocabulario, favoreciendo además la motivación y la participación activa.</p>\n<p><em><strong>PARTES DEL CUENTO</strong></em></p>\n<p><img src=\"{{context_path}}/content/resources/juego partes cuento.png\" width=\"272\" height=\"179\" alt=\"\" /></p>\n<p><a href=\"https://www.educaplay.com/learning-resources/17996832-partes_del_cuento.html\">https://www.educaplay.com/learning-resources/17996832-partes_del_cuento.html</a></p>\n<p><em><strong>INVENTO HISTORIAS</strong></em></p>\n<p><img src=\"{{context_path}}/content/resources/crear historias.png\" width=\"272\" height=\"156\" alt=\"\" /><br /></p>\n<p><a href=\"https://wordwall.net/es/resource/2485843/imagenes-crear-historias\">https://wordwall.net/es/resource/2485843/imagenes-crear-historias</a></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
+  <pageName>3. Recomendaciones</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Recomendaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Recomendaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Recomendaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
+      <odeBlockId>block-1779435891288-bo3t6q8hu</odeBlockId>
+      <blockName>🎤 Recomendamos nuestro cuento</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
+          <odeBlockId>block-1779435891288-bo3t6q8hu</odeBlockId>
+          <odeIdeviceId>idevice-1779435891282-y7abcbscz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con esta actividad vamos a trabajar la expresión oral y también:<br />✔️ La planificación<br />✔️ El trabajo en equipo<br />✔️ La escucha<br />✔️ La organización de ideas<br />✔️ y la confianza al hablar</p>
+<p>Organizaremos al alumnado en pequeños grupos (3 o 4 equipos), y con ayuda del tutor o maestro/a de apoyo, se prepararán una breve recomendación sobre el cuento ganador elegido previamente por todo/as.</p>
+<p>Cada equipo decidirá de manera colaborativa lo que quieren contar sobre la historia, los personajes o las partes que más les han gustado.</p>
+<p>Posteriormente, las recomendaciones serán grabadas mediante tablet o dispositivo digital, para favorecer la expresión oral, la creatividad, el trabajo cooperativo y el uso guiado de herramientas digitales adaptadas a la etapa de Educación Infantil.</p>
+<p>Recordamos que el cuento también se ha trabajado con la familia.</p>
+<p><em><strong>🎤 “Para la grabación se habilitará un pequeño rincón de reporteros con micrófono, cuentos y elementos visuales relacionados con el Día del Libro.”</strong></em></p>
+<p><em><strong>                                                                                 <img src="{{context_path}}/content/resources/rincon reporteros.webp" width="232" height="196" alt="" /></strong></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779435891282-y7abcbscz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con esta actividad vamos a trabajar la expresión oral y también:<br />✔️ La planificación<br />✔️ El trabajo en equipo<br />✔️ La escucha<br />✔️ La organización de ideas<br />✔️ y la confianza al hablar</p>\n<p>Organizaremos al alumnado en pequeños grupos (3 o 4 equipos), y con ayuda del tutor o maestro/a de apoyo, se prepararán una breve recomendación sobre el cuento ganador elegido previamente por todo/as.</p>\n<p>Cada equipo decidirá de manera colaborativa lo que quieren contar sobre la historia, los personajes o las partes que más les han gustado.</p>\n<p>Posteriormente, las recomendaciones serán grabadas mediante tablet o dispositivo digital, para favorecer la expresión oral, la creatividad, el trabajo cooperativo y el uso guiado de herramientas digitales adaptadas a la etapa de Educación Infantil.</p>\n<p>Recordamos que el cuento también se ha trabajado con la familia.</p>\n<p><em><strong>🎤 “Para la grabación se habilitará un pequeño rincón de reporteros con micrófono, cuentos y elementos visuales relacionados con el Día del Libro.”</strong></em></p>\n<p><em><strong>                                                                                 <img src=\"{{context_path}}/content/resources/rincon reporteros.webp\" width=\"232\" height=\"196\" alt=\"\" /></strong></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
+      <odeBlockId>block-1779438175009-uc2mxr054</odeBlockId>
+      <blockName>🎨 Dibujamos nuestro cuento</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
+          <odeBlockId>block-1779438175009-uc2mxr054</odeBlockId>
+          <odeIdeviceId>idevice-1779438175008-z02c4szhd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para las recomendaciones orales, el alumnado ha elaborado dibujos libres inspirados en el cuento ganador, representando la portada, personajes o escenas que más les hayan gustado.</p>
+<p>A través de esta propuesta artística basada en la expresión libre, los niños y niñas podrán comunicar emociones, ideas e interpretaciones personales sobre la historia, favoreciendo la creatividad, la imaginación y la expresión plástica.</p>
+<p>Los dibujos realizados podrán incorporarse posteriormente al audiolibro y al noticiero final como parte de la producción colectiva del aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779438175008-z02c4szhd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para las recomendaciones orales, el alumnado ha elaborado dibujos libres inspirados en el cuento ganador, representando la portada, personajes o escenas que más les hayan gustado.</p>\n<p>A través de esta propuesta artística basada en la expresión libre, los niños y niñas podrán comunicar emociones, ideas e interpretaciones personales sobre la historia, favoreciendo la creatividad, la imaginación y la expresión plástica.</p>\n<p>Los dibujos realizados podrán incorporarse posteriormente al audiolibro y al noticiero final como parte de la producción colectiva del aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhrc-xc4fscfkm</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
+  <pageName>4. Reporteros</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Reporteros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Reporteros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhrc-xc4fscfkm</odePageId>
+      <odeBlockId>block-1779436988294-xpg2y7y3r</odeBlockId>
+      <blockName>📰 Nos convertimos en reporteros</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhrc-xc4fscfkm</odePageId>
+          <odeBlockId>block-1779436988294-xpg2y7y3r</odeBlockId>
+          <odeIdeviceId>idevice-1779436988290-11yob84gx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado se adentrará en el mundo de los reporteros y comunicadores, utilizando su voz para contar historias y compartir información sobre el cuento trabajado en clase.</p>
+<p>El alumnado desarrollará:</p>
+<p><em>la expresión oral, la creatividad, la escucha y la confianza en sí mismos, participando de forma activa y motivadora en la creación del audiolibro del Día del Libro.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779436988290-11yob84gx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado se adentrará en el mundo de los reporteros y comunicadores, utilizando su voz para contar historias y compartir información sobre el cuento trabajado en clase.</p>\n<p>El alumnado desarrollará:</p>\n<p><em>la expresión oral, la creatividad, la escucha y la confianza en sí mismos, participando de forma activa y motivadora en la creación del audiolibro del Día del Libro.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhrd-c056d3ott</odePageId>
+  <odeParentPageId>page-mplfnhrc-xc4fscfkm</odeParentPageId>
+  <pageName>🎧 Audio libro</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎧 Audio libro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🎧 Audio libro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🎧 Audio libro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhrd-c056d3ott</odePageId>
+      <odeBlockId>block-1779437271377-4qutp14fa</odeBlockId>
+      <blockName>🎧 Grabamos nuestro audiolibro</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhrd-c056d3ott</odePageId>
+          <odeBlockId>block-1779437271377-4qutp14fa</odeBlockId>
+          <odeIdeviceId>idevice-1779437271375-g4i7n1ozg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nos organizamos en pequeños grupos, los niños y niñas practicarán previamente la narración, cuidando la pronunciación, la entonación y la expresión oral. A continuación, se realizarán grabaciones de sus voces utilizando herramientas digitales sencillas adaptadas a la etapa de Educación Infantil.</p>
+<p>Finalmente, la tutora realizará el montaje del audiolibro incorporando las grabaciones del alumnado junto a imágenes y secuencias visuales del cuento, </p>
+<p>💻 Herramientas digitales: tablet, grabadora de voz, micrófono.</p>
+<p>Ejemplo de un audiolibro: </p>
+<p><a href="https://www.youtube.com/watch?v=cEAGTTqgQ5o">https://www.youtube.com/watch?v=cEAGTTqgQ5o</a></p>
+<p><strong>Referencia bibliográfica: </strong></p>
+<p><strong>https://www.youtube.com/@mrosariogarrido9766, - 2021</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779437271375-g4i7n1ozg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nos organizamos en pequeños grupos, los niños y niñas practicarán previamente la narración, cuidando la pronunciación, la entonación y la expresión oral. A continuación, se realizarán grabaciones de sus voces utilizando herramientas digitales sencillas adaptadas a la etapa de Educación Infantil.</p>\n<p>Finalmente, la tutora realizará el montaje del audiolibro incorporando las grabaciones del alumnado junto a imágenes y secuencias visuales del cuento, </p>\n<p>💻 Herramientas digitales: tablet, grabadora de voz, micrófono.</p>\n<p>Ejemplo de un audiolibro: </p>\n<p><a href=\"https://www.youtube.com/watch?v=cEAGTTqgQ5o\">https://www.youtube.com/watch?v=cEAGTTqgQ5o</a></p>\n<p><strong>Referencia bibliográfica: </strong></p>\n<p><strong>https://www.youtube.com/@mrosariogarrido9766, - 2021</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🌟 Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🌟 Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🌟 Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🌟 Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
+      <odeBlockId>block-1779441788978-6vcqu3qef</odeBlockId>
+      <blockName>🌟 Cómo aprendemos y mejoraremos</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
+          <odeBlockId>block-1779441788978-6vcqu3qef</odeBlockId>
+          <odeIdeviceId>idevice-1779441788977-mb78xtpn3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación se realizará de forma continua, global y adaptada a las características del alumnado de Educación Infantil, teniendo en cuenta tanto el proceso como la participación y evolución de cada niño y niña.</p>
+<p>Los instrumentos de evaluación que utilizaré para observar el desarrollo de la expresión oral, la participación, el trabajo cooperativo, la creatividad y el uso guiado de herramientas digitales son:</p>
+<p>✔️ Lista de cotejo, para observar la participación, la expresión oral y la implicación del alumnado en las diferentes actividades.</p>
+<p>✔️ Diana de evaluación visual, adaptada a la etapa infantil mediante caritas, para poder facilitar la autoevaluación y la reflexión sobre el propio aprendizaje.</p>
+<p>Además, se ofrecerá retroalimentación positiva y acompañamiento continuo durante el desarrollo de todas las tareas.</p>
+<p><em><strong>                              LISTA DE COTEJO                                                                            DIANA DE EVALUACIÓN</strong></em></p>
+<p><em><strong><img src="{{context_path}}/content/resources/Lista de cotejo.png" width="395" height="223" alt="" />                  <img src="{{context_path}}/content/resources/Diana de evaluacion.png" width="396" height="223" alt="" /></strong></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779441788977-mb78xtpn3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación se realizará de forma continua, global y adaptada a las características del alumnado de Educación Infantil, teniendo en cuenta tanto el proceso como la participación y evolución de cada niño y niña.</p>\n<p>Los instrumentos de evaluación que utilizaré para observar el desarrollo de la expresión oral, la participación, el trabajo cooperativo, la creatividad y el uso guiado de herramientas digitales son:</p>\n<p>✔️ Lista de cotejo, para observar la participación, la expresión oral y la implicación del alumnado en las diferentes actividades.</p>\n<p>✔️ Diana de evaluación visual, adaptada a la etapa infantil mediante caritas, para poder facilitar la autoevaluación y la reflexión sobre el propio aprendizaje.</p>\n<p>Además, se ofrecerá retroalimentación positiva y acompañamiento continuo durante el desarrollo de todas las tareas.</p>\n<p><em><strong>                              LISTA DE COTEJO                                                                            DIANA DE EVALUACIÓN</strong></em></p>\n<p><em><strong><img src=\"{{context_path}}/content/resources/Lista de cotejo.png\" width=\"395\" height=\"223\" alt=\"\" />                  <img src=\"{{context_path}}/content/resources/Diana de evaluacion.png\" width=\"396\" height=\"223\" alt=\"\" /></strong></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
+      <odeBlockId>block-1779721564394-7ppswn67m</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
+          <odeBlockId>block-1779721564394-7ppswn67m</odeBlockId>
+          <odeIdeviceId>idevice-1779721564393-68g3h5ulw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para poder realizar la evaluación tenemos que tener una relación de las tareas con unos criterios de evaluación que se reflejan en la siguiente tabla:</p>
+<p><a href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf" title="6.1. Asociamos tareas a Criterios de evaluación.pdf">{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779721564393-68g3h5ulw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para poder realizar la evaluación tenemos que tener una relación de las tareas con unos criterios de evaluación que se reflejan en la siguiente tabla:</p>\n<p><a href=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf\" title=\"6.1. Asociamos tareas a Criterios de evaluación.pdf\">{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhre-e6kd0xtzw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📰 Noticiero</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📰 Noticiero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📰 Noticiero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>📰 Noticiero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhre-e6kd0xtzw</odePageId>
+      <odeBlockId>block-1779440021037-s0yojmg2x</odeBlockId>
+      <blockName>📰 Nuestro gran noticiero del Día del Libro</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhre-e6kd0xtzw</odePageId>
+          <odeBlockId>block-1779440021037-s0yojmg2x</odeBlockId>
+          <odeIdeviceId>idevice-1779440021033-v204br6s5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Creación y presentación de nuestro pequeño noticiero relacionado con el Día del Libro.</p>
+<p>En este espacio final recogeremos las recomendaciones grabadas por los diferentes equipos, así como la escucha y visualización del audiolibro elaborado de forma colaborativa por la clase.</p>
+<p>Además, se incorporarán dibujos, imágenes y producciones realizadas por el alumnado durante el proyecto, favoreciendo un producto final creativo, participativo y significativo.</p>
+<p>Una vez montado será compartido con los diferentes ciclos del centro y con las familias (<strong>drive e ipasen</strong>).</p>
+<p>Para el montaje final se utilizará la herramienta digital <strong>Genially</strong>, me va a permitir integrar imágenes, audios, dibujos y grabaciones de manera visual, interactiva y motivadora, adaptándose a las características del alumnado de Educación Infantil.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779440021033-v204br6s5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Creación y presentación de nuestro pequeño noticiero relacionado con el Día del Libro.</p>\n<p>En este espacio final recogeremos las recomendaciones grabadas por los diferentes equipos, así como la escucha y visualización del audiolibro elaborado de forma colaborativa por la clase.</p>\n<p>Además, se incorporarán dibujos, imágenes y producciones realizadas por el alumnado durante el proyecto, favoreciendo un producto final creativo, participativo y significativo.</p>\n<p>Una vez montado será compartido con los diferentes ciclos del centro y con las familias (<strong>drive e ipasen</strong>).</p>\n<p>Para el montaje final se utilizará la herramienta digital <strong>Genially</strong>, me va a permitir integrar imágenes, audios, dibujos y grabaciones de manera visual, interactiva y motivadora, adaptándose a las características del alumnado de Educación Infantil.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplfnhre-8riulgn4l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📄 Créditos y licencia</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📄 Créditos y licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📄 Créditos y licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplfnhre-8riulgn4l</odePageId>
+      <odeBlockId>block-1779722067321-es13ceap5</odeBlockId>
+      <blockName>🌟 Créditos finales</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplfnhre-8riulgn4l</odePageId>
+          <odeBlockId>block-1779722067321-es13ceap5</odeBlockId>
+          <odeIdeviceId>idevice-1779722067320-00kt3d8ai</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong><br />Esther Pineda Domínguez</p>
+<p><strong>Título del proyecto:</strong><br />Reporteros del Día del Libro</p>
+<p><strong>Descripción:</strong><br />Situación de Aprendizaje dirigida al alumnado de Educación Infantil (5 años) centrada en la animación a la lectura, la expresión oral, el trabajo cooperativo y el uso guiado de herramientas digitales mediante la creación de un audiolibro y un noticiero escolar.</p>
+<p><strong>Licencia de uso:</strong><br />Este recurso educativo se comparte bajo licencia Creative Commons para uso educativo y no comercial.</p>
+<p><strong>Herramientas utilizadas:</strong><br />eXeLearning, Genially, Canva, Padlet y Symbaloo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779722067320-00kt3d8ai","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong><br />Esther Pineda Domínguez</p>\n<p><strong>Título del proyecto:</strong><br />Reporteros del Día del Libro</p>\n<p><strong>Descripción:</strong><br />Situación de Aprendizaje dirigida al alumnado de Educación Infantil (5 años) centrada en la animación a la lectura, la expresión oral, el trabajo cooperativo y el uso guiado de herramientas digitales mediante la creación de un audiolibro y un noticiero escolar.</p>\n<p><strong>Licencia de uso:</strong><br />Este recurso educativo se comparte bajo licencia Creative Commons para uso educativo y no comercial.</p>\n<p><strong>Herramientas utilizadas:</strong><br />eXeLearning, Genially, Canva, Padlet y Symbaloo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
